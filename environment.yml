@@ -7,3 +7,8 @@ dependencies:
   - r
   - r-ggplot2
   - r-pandas
+  - pip
+  - pip:
+      - pandas
+      - matplotlib
+
